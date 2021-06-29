@@ -1,0 +1,28 @@
+[
+  {
+    "remote"       : "github",
+    "repository"   : "NusantaraROM-Devices/device_realme_RMX2020",
+    "target_path"  : "device/realme/RMX2020",
+    "branch"       : "11"
+  },
+  {
+    "remote"       : "github",
+    "repository"   : "NusantaraROM-Devices/vendor_realme_RMX2020",
+    "target_path"  : "vendor/realme/RMX2020",
+    "branch"       : "11"
+  },
+  {
+    "remote"       : "github",
+    "repository"   : "NusantaraROM-Devices/kernel_realme_rmx2020",
+    "target_path"  : "kernel/realme/rmx2020",
+    "clone-depth"  : "1",
+    "branch"       : "11"
+  },
+  {
+    "remote"       : "github",
+    "repository"   : "Realme-G70-Series/android_packages_apps_RealmeParts",
+    "target_path"  : "packages/apps/RealmeParts",
+    "clone-depth"  : "1",
+    "branch"       : "lineage-18.1"
+  }
+]
