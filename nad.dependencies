@@ -24,5 +24,12 @@
     "target_path"  : "packages/apps/RealmeParts",
     "clone-depth"  : "1",
     "branch"       : "lineage-18.1"
+  },
+  {
+    "remote"       : "github",
+    "repository"   : "Realme-G70-Series/android_packages_apps_RealmeDirac",
+    "target_path"  : "packages/apps/RealmeDirac",
+    "clone-depth"  : "1",
+    "branch"       : "master"
   }
 ]
