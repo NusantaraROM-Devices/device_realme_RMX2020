@@ -12,11 +12,11 @@
     "branch"       : "11"
   },
   {
-    "remote"       : "github",
-    "repository"   : "NusantaraROM-Devices/kernel_realme_rmx2020",
-    "target_path"  : "kernel/realme/rmx2020",
-    "clone-depth"  : "1",
-    "branch"       : "11"
+    "remote"       : "github", 
+    "repository"   : "Realme-G70-Series/kernel_realme_rmx2020", 
+    "target_path"  : "kernel/realme/RMX2020", 
+    "clone-depth"  : "1", 
+    "branch"       : "lineage-18.1"
   },
   {
     "remote"       : "github",
